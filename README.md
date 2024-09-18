@@ -10,10 +10,10 @@
   <a href="mailto:ruther.diox04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/ruther-dio-b3058b248/" target="_blank">
+  <a target="_blank" href="https://www.linkedin.com/in/ruther-dio-b3058b248/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://ruther-portfolio.vercel.app" target="_blank">
+  <a target="_blank" href="https://ruther-portfolio.vercel.app">
      <img src="https://img.shields.io/badge/Portfolio-4d7c0f?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </div>

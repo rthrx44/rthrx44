@@ -1,8 +1,7 @@
 <img align="right" src="https://visitcount.itsvg.in/api?id=rthrx44&icon=0&color=3" />
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=84CC16&center=true&vCenter=true&width=435&lines=Hi+There+%F0%9F%91%8B;I'm+Ruther+Dio!" alt="Typing SVG" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2000&pause=500&color=84CC16&center=true&vCenter=true&width=500&height=60&lines=Hi!+There+%F0%9F%91%8B;I'm+Ruther+Dio!+%F0%9F%99%8B;Nice+to+meet+you+%F0%9F%A4%A9;Welcome+to+my+Github+Profile+%F0%9F%A4%97" alt="Typing SVG" />
     </a>
 </h1>
 <h3 align="center">A Frontend Web Developer based in Bulacan, Philippines. PH</h3>

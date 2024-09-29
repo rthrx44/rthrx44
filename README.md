@@ -21,7 +21,7 @@
 <br/>
 <h2 align="center">💻 Currently Learning Tech Stack</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,postgres" />
 </div>
 
 <br/>
